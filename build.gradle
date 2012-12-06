@@ -5,3 +5,4 @@
 // comment from github web
 apply plugin: 'java'
 apply plugin: 'idea'
+apply plugin: 'eclipse'
