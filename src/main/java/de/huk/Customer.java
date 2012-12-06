@@ -11,6 +11,7 @@ public class Customer {
     private String houseNumber;
     private String city;
     private String plz;
+    private String some1;
 
     public String getFirstName() {
         return firstName;
