@@ -1,8 +1,3 @@
-// more
-// comment from github
-// comment from windows tgit
-// more comments from windwos
-// comment from github web
 apply plugin: 'java'
 apply plugin: 'idea'
 apply plugin: 'eclipse'
