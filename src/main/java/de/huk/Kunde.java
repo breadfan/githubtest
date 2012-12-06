@@ -3,7 +3,7 @@ package de.huk;
 /**
  * @author Chris Wewerka
  */
-public class Customer {
+public class Kunde {
 
     private String some2;
     private String id;
