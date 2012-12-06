@@ -10,6 +10,7 @@ public class Customer {
     private String street;
     private String houseNumber;
     private String city;
+    private String plz;
 
     public String getFirstName() {
         return firstName;
