@@ -1,0 +1,5 @@
+*.ipr
+*.iml
+*.ips
+*.iws
+.gradle
