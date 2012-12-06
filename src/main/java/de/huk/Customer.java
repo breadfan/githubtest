@@ -5,6 +5,8 @@ package de.huk;
  */
 public class Customer {
 
+    private String some2;
+    private String id;
     private String firstName;
     private String lastName;
     private String street;
