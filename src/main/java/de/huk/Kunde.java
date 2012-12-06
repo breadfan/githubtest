@@ -14,6 +14,7 @@ public class Kunde {
     private String city;
     private String plz;
     private String some1;
+    private String eclipse;
 
     public String getFirstName() {
         return firstName;
